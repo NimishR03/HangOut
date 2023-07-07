@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "386607039385",
+    "project_id": "meet-app-365fc",
+    "storage_bucket": "meet-app-365fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386607039385:android:1e112ee4f3f9e32fc04908",
+        "android_client_info": {
+          "package_name": "com.example.meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386607039385-s1bla1o2bib5hjuarkehiabnvfr3bk2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meet",
+            "certificate_hash": "b5cd4b810d440e462bcd2709a3c548408613b615"
+          }
+        },
+        {
+          "client_id": "386607039385-isb1qq9ccghviotc7qgl84adcblh8vfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASDBcgdMHx_xU2L6-X4VzeS9Wsftmbua8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386607039385-5hth7lbutkn13r961mdboljenjbv97dd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "386607039385-hfile72982sbujo8c8j88h0qsl4le234.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
